@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="372" viewBox="0 0 720 372" role="img" aria-labelledby="t d">
+<title id="t">Terminal: whoami, stack, projects</title>
+<desc id="d">Emin Karaman, Computer Engineer. Unity, C#, Flutter, Next.js, Supabase, Python. Projects: games, web, mobile, ai-tools.</desc>
+<style>
+text{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace;font-size:17px}
+.all{animation:fade 14.4s linear infinite}
+@keyframes fade{0%{opacity:1}93.75%{opacity:1}97.917%{opacity:0}99.9%{opacity:0}100%{opacity:1}}
+.bl{animation:bl 1.1s steps(1,end) infinite}
+@keyframes bl{0%{opacity:1}50%{opacity:0}}
+.cv0{animation:cv0 14.4s linear infinite}
+@keyframes cv0{0%{transform:translateX(0)}4.167%{transform:translateX(0);animation-timing-function:steps(8,end)}7.222%{transform:translateX(85.6px)}100%{transform:translateX(85.6px)}}
+.cu0{animation:cu0 14.4s linear infinite}
+@keyframes cu0{0%,4.127%{opacity:0;transform:translateX(0)}4.167%{opacity:1;transform:translateX(0);animation-timing-function:steps(8,end)}7.222%{opacity:1;transform:translateX(85.6px)}9.613000000000001%{opacity:1;transform:translateX(85.6px)}9.653%,100%{opacity:0;transform:translateX(85.6px)}}
+.ou0{animation:ou0 14.4s linear infinite}
+@keyframes ou0{0%,9.613000000000001%{opacity:0}9.653%,100%{opacity:1}}
+.cv1{animation:cv1 14.4s linear infinite}
+@keyframes cv1{0%{transform:translateX(0)}15.903%{transform:translateX(0);animation-timing-function:steps(15,end)}21.632%{transform:translateX(157px)}100%{transform:translateX(157px)}}
+.cu1{animation:cu1 14.4s linear infinite}
+@keyframes cu1{0%,15.863000000000001%{opacity:0;transform:translateX(0)}15.903%{opacity:1;transform:translateX(0);animation-timing-function:steps(15,end)}21.632%{opacity:1;transform:translateX(157px)}24.023%{opacity:1;transform:translateX(157px)}24.063%,100%{opacity:0;transform:translateX(157px)}}
+.ou1{animation:ou1 14.4s linear infinite}
+@keyframes ou1{0%,24.023%{opacity:0}24.063%,100%{opacity:1}}
+.cv2{animation:cv2 14.4s linear infinite}
+@keyframes cv2{0%{transform:translateX(0)}30.313%{transform:translateX(0);animation-timing-function:steps(15,end)}36.042%{transform:translateX(157px)}100%{transform:translateX(157px)}}
+.cu2{animation:cu2 14.4s linear infinite}
+@keyframes cu2{0%,30.273%{opacity:0;transform:translateX(0)}30.313%{opacity:1;transform:translateX(0);animation-timing-function:steps(15,end)}36.042%{opacity:1;transform:translateX(157px)}38.432%{opacity:1;transform:translateX(157px)}38.472%,100%{opacity:0;transform:translateX(157px)}}
+.ou2{animation:ou2 14.4s linear infinite}
+@keyframes ou2{0%,38.432%{opacity:0}38.472%,100%{opacity:1}}
+.cv3{animation:cv3 14.4s linear infinite}
+@keyframes cv3{0%{transform:translateX(0)}44.722%{transform:translateX(0);animation-timing-function:steps(22,end)}53.125%{transform:translateX(228.4px)}100%{transform:translateX(228.4px)}}
+.cu3{animation:cu3 14.4s linear infinite}
+@keyframes cu3{0%,44.682%{opacity:0;transform:translateX(0)}44.722%{opacity:1;transform:translateX(0);animation-timing-function:steps(22,end)}53.125%{opacity:1;transform:translateX(228.4px)}55.516%{opacity:1;transform:translateX(228.4px)}55.556%,100%{opacity:0;transform:translateX(228.4px)}}
+.ou3{animation:ou3 14.4s linear infinite}
+@keyframes ou3{0%,55.516%{opacity:0}55.556%,100%{opacity:1}}
+.pr{animation:pr 14.4s linear infinite}
+@keyframes pr{0%,61.766%{opacity:0}61.806%,100%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="720" height="372" rx="12" fill="#0d1117"/>
+<path d="M0 12a12 12 0 0 1 12-12h696a12 12 0 0 1 12 12v28H0z" fill="#161b22"/>
+<rect y="39" width="720" height="1" fill="#30363d"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="44" cy="20" r="6" fill="#ffbd2e"/><circle cx="64" cy="20" r="6" fill="#27c93f"/>
+<text x="360" y="25" text-anchor="middle" fill="#8b949e" style="font-size:13px">emin@parzival: ~</text>
+<g class="all">
+<text x="28" y="84" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+<text class="ou0" x="28" y="112" xml:space="preserve"><tspan fill="#e6edf3" font-weight="700">Emin Karaman</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6b450">Computer Engineer</tspan></text>
+<rect class="cv0" x="26" y="65" width="93.6" height="27" fill="#0d1117" style="transform:translateX(85.6px)"/>
+<rect class="cu0" x="28" y="68" width="9" height="21" fill="#e6b450" opacity="0.9" style="opacity:0"/>
+<text x="28" y="148" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">cat stack.txt</tspan></text>
+<text class="ou1" x="28" y="176" xml:space="preserve"><tspan fill="#e6edf3">Unity</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">C#</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">Flutter</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">Next.js</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">Supabase</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">Python</tspan></text>
+<rect class="cv1" x="26" y="129" width="165" height="27" fill="#0d1117" style="transform:translateX(157px)"/>
+<rect class="cu1" x="28" y="132" width="9" height="21" fill="#e6b450" opacity="0.9" style="opacity:0"/>
+<text x="28" y="212" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">ls ~/projects</tspan></text>
+<text class="ou2" x="28" y="240" xml:space="preserve"><tspan fill="#79c0ff">games/</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#79c0ff">web/</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#79c0ff">mobile/</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#79c0ff">ai-tools/</tspan></text>
+<rect class="cv2" x="26" y="193" width="165" height="27" fill="#0d1117" style="transform:translateX(157px)"/>
+<rect class="cu2" x="28" y="196" width="9" height="21" fill="#e6b450" opacity="0.9" style="opacity:0"/>
+<text x="28" y="276" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">git log --oneline -1</tspan></text>
+<text class="ou3" x="28" y="304" xml:space="preserve"><tspan fill="#e6b450">a7c3f21</tspan><tspan fill="#e6b450"> (</tspan><tspan fill="#79c0ff">HEAD -&gt; </tspan><tspan fill="#7ee787">main</tspan><tspan fill="#e6b450">)</tspan><tspan fill="#e6edf3"> refactor: clean, optimized code</tspan></text>
+<rect class="cv3" x="26" y="257" width="236.4" height="27" fill="#0d1117" style="transform:translateX(228.4px)"/>
+<rect class="cu3" x="28" y="260" width="9" height="21" fill="#e6b450" opacity="0.9" style="opacity:0"/>
+<g class="pr"><text x="28" y="340" fill="#7ee787" xml:space="preserve">$ </text><rect class="bl" x="48.4" y="324" width="9" height="21" fill="#e6b450" opacity="0.9"/></g>
+</g>
+<rect x="0.5" y="0.5" width="719" height="371" rx="11.5" fill="none" stroke="#30363d"/>
+</svg>
