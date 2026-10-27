@@ -1,72 +1,74 @@
-<div align="center">
+<a href="https://emiinnkrmn.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <img alt="Emin Karaman. Computer Engineer, Unity 3D and C# developer, building games, web apps, mobile apps and AI tools." src="assets/hero-dark.svg" width="100%">
+  </picture>
+</a>
 
-<img src="assets/terminal.svg" alt="Terminal: Emin Karaman, Computer Engineer. Unity, C#, Flutter, Next.js, Supabase, Python." width="720"/>
+<p align="center">
+  <a href="https://emiinnkrmn.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-light.svg">
+      <img alt="Portfolio: emiinnkrmn.app" src="assets/portfolio-dark.svg" height="42">
+    </picture>
+  </a>
+</p>
 
-<br/><br/>
+### `01` about
 
-<a href="https://emiinnkrmn.app/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-emiinnkrmn.app-e6b450?style=for-the-badge&labelColor=0d1117"/></a>
-
-</div>
-
-<br/>
-
-```ts
-const emin = {
-  name: "Emin Karaman",
-  role: "Computer Engineer",
-  builds: ["games", "web apps", "mobile apps", "AI tools"],
-  principle: "clean, optimized code",
-  stack: {
-    game:    ["Unity", "C#"],
-    mobile:  ["Flutter", "Dart"],
-    web:     ["TypeScript", "Next.js", "Tailwind", "Supabase"],
-    scripts: ["Python", "PowerShell"],
-  },
-  portfolio: "https://emiinnkrmn.app",
-} as const;
+```csharp
+public sealed class EminKaraman : Engineer
+{
+    string   Role   => "Computer Engineer";
+    string   Focus  => "Unity 3D & C#";
+    string[] Builds => ["games", "web apps", "mobile apps", "AI tools"];
+    string   Rule   => "clean, optimized code";
+    Uri      Home   => new("https://emiinnkrmn.app");
+}
 ```
 
-<br/>
+### `02` stack
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-a-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-a-light.svg">
+    <img alt="game: Unity, C#. web: TypeScript, Next.js, Tailwind CSS, Vercel." src="assets/stack-a-dark.svg" width="410">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-b-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-b-light.svg">
+    <img alt="mobile: Flutter, Dart. data and tooling: Supabase, PostgreSQL, Python, PowerShell, Git." src="assets/stack-b-dark.svg" width="410">
+  </picture>
+</p>
 
-<h3>stack</h3>
+### `03` projects
 
-<img alt="Unity, C#, Flutter, Dart, TypeScript, Next.js, Tailwind, Supabase, PostgreSQL, Python, Git, Vercel" src="https://skillicons.dev/icons?i=unity,cs,flutter,dart,ts,nextjs,tailwind,supabase,postgres,py,git,vercel&perline=12&theme=dark"/>
+<p align="center">
+  <a href="https://github.com/parzival6564-ai/youtube-video-otomasyon">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/project-video-factory-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/project-video-factory-light.svg">
+      <img alt="youtube-video-otomasyon: AI video production and marketing factory. Scripts, voice-over, dynamic subtitles, 9:16 renders and auto-publishing. Python." src="assets/project-video-factory-dark.svg" width="410">
+    </picture>
+  </a>
+  <a href="https://github.com/parzival6564-ai/PORTFOL-O">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/project-portfolio-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/project-portfolio-light.svg">
+      <img alt="PORTFOL-O: source of emiinnkrmn.app, my personal portfolio site. HTML." src="assets/project-portfolio-dark.svg" width="410">
+    </picture>
+  </a>
+</p>
 
-<br/><br/>
-
-<h3>projects</h3>
-
-<table>
-  <tr>
-    <td align="left" valign="top" width="360">
-      <b><a href="https://github.com/parzival6564-ai/youtube-video-otomasyon">youtube-video-otomasyon</a></b><br/>
-      <sub>AI video production &amp; marketing factory: scripts, voice-over, dynamic subtitles, 9:16 renders, auto-publish.</sub><br/>
-      <sub><code>Python</code></sub>
-    </td>
-    <td align="left" valign="top" width="360">
-      <b><a href="https://emiinnkrmn.app/">emiinnkrmn.app</a></b><br/>
-      <sub>Personal portfolio site.</sub><br/>
-      <sub><code>HTML</code> &middot; <a href="https://github.com/parzival6564-ai/PORTFOL-O">source</a></sub>
-    </td>
-  </tr>
-</table>
-
-<sub>New games, web and mobile apps are in the works.</sub>
-
-<br/><br/>
-
-<h3>contributions</h3>
+### `04` activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parzival6564-ai/parzival6564-ai/refs/heads/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parzival6564-ai/parzival6564-ai/refs/heads/output/github-snake.svg">
-  <img alt="Contribution graph, eaten by a snake" src="https://raw.githubusercontent.com/parzival6564-ai/parzival6564-ai/refs/heads/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parzival6564-ai/parzival6564-ai/refs/heads/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parzival6564-ai/parzival6564-ai/refs/heads/output/snake-light.svg">
+  <img alt="My contribution calendar for the last twelve months, with a snake that eats every day I contributed." src="https://raw.githubusercontent.com/parzival6564-ai/parzival6564-ai/refs/heads/output/snake-dark.svg" width="100%">
 </picture>
 
-<br/><br/>
-
-<code>while (alive) { learn(); build(); ship(); }</code>
-
-</div>
+<p align="center"><sub>Redrawn every day from my real contribution calendar by <a href="scripts/contrib-snake.mjs">scripts/contrib-snake.mjs</a>. No third-party service, no token.</sub></p>
